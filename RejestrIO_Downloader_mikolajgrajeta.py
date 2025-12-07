@@ -24,7 +24,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # API configuration
 api_url = "https://rejestr.io/api/v2/org"
-api_key = "e78fe098-7037-4351-9458-63adbbc31c4a"
+api_key = "***********************************"
 
 api_request_count = 0
 latest_search_params = None
